@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pw" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="340c9e6f-1ed2-416c-b9b7-72c749232f9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dalle_pytorch/snli_ve_pytorch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/prepro_texts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_snli_ve.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dalle_pytorch/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dalle_pytorch/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dalle_pytorch/attention.py" beforeDir="false" afterPath="$PROJECT_DIR$/dalle_pytorch/attention.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dalle_pytorch/loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/dalle_pytorch/loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dalle_pytorch/transformer.py" beforeDir="false" afterPath="$PROJECT_DIR$/dalle_pytorch/transformer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_dalle.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_dalle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_vae.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_vae.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="8e15d8e6-4cdd-4305-8d32-919a890ff28c" />
+  <component name="ProjectId" id="1udgJwpNwhiuobJveNE64vz5lwK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dalle_pytorch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.prepro_texts">
+    <configuration name="dalle_pytorch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DALLE-pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dalle_pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dalle_pytorch/dalle_pytorch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prepro_texts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DALLE-pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/prepro_texts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transformer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DALLE-pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dalle_pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dalle_pytorch/transformer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.prepro_texts" />
+        <item itemvalue="Python.transformer" />
+        <item itemvalue="Python.dalle_pytorch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="340c9e6f-1ed2-416c-b9b7-72c749232f9e" name="Default Changelist" comment="" />
+      <created>1625000814203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625000814203</updated>
+      <workItem from="1625000816339" duration="16950000" />
+      <workItem from="1626917439559" duration="4147000" />
+      <workItem from="1627594525877" duration="391000" />
+      <workItem from="1630010998912" duration="40076000" />
+      <workItem from="1633793426312" duration="22742000" />
+      <workItem from="1637187598113" duration="24637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="104" key="#Deployment" timestamp="1631028420002">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="320" y="104" key="#Deployment/0.23.1440.831@0.23.1440.831" timestamp="1626917723773" />
+    <state x="320" y="104" key="#Deployment/0.23.1440.832@0.23.1440.832" timestamp="1631028420002" />
+    <state x="304" y="91" key="#SSH_Configurations" timestamp="1626917702784">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="304" y="91" key="#SSH_Configurations/0.23.1440.831@0.23.1440.831" timestamp="1626917702784" />
+    <state width="1398" height="164" key="GridCell.Tab.0.bottom" timestamp="1636396990163">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="164" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1636396990163" />
+    <state width="699" height="267" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1635126229114" />
+    <state width="1398" height="164" key="GridCell.Tab.0.center" timestamp="1636396990163">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="164" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1636396990163" />
+    <state width="699" height="267" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1635126229112" />
+    <state width="1398" height="164" key="GridCell.Tab.0.left" timestamp="1636396990162">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="164" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1636396990162" />
+    <state width="699" height="267" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1635126229103" />
+    <state width="1398" height="164" key="GridCell.Tab.0.right" timestamp="1636396990163">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="164" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1636396990163" />
+    <state width="699" height="267" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1635126229113" />
+    <state width="1398" height="164" key="GridCell.Tab.1.bottom" timestamp="1636396990164">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="164" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1636396990164" />
+    <state width="699" height="267" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1635126229121" />
+    <state width="1398" height="164" key="GridCell.Tab.1.center" timestamp="1636396990164">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="164" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1636396990164" />
+    <state width="699" height="267" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1635126229117" />
+    <state width="1398" height="164" key="GridCell.Tab.1.left" timestamp="1636396990163">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="164" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1636396990163" />
+    <state width="699" height="267" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1635126229115" />
+    <state width="1398" height="164" key="GridCell.Tab.1.right" timestamp="1636396990164">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="164" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1636396990164" />
+    <state width="699" height="267" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1635126229119" />
+    <state x="627" y="175" key="ftp.server.browser" timestamp="1626917721606">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="627" y="175" key="ftp.server.browser/0.23.1440.831@0.23.1440.831" timestamp="1626917721606" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DALLE_pytorch$prepro_texts.coverage" NAME="prepro_texts Coverage Results" MODIFIED="1635044654953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/DALLE_pytorch$transformer.coverage" NAME="transformer Coverage Results" MODIFIED="1634849939741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dalle_pytorch" />
+  </component>
+</project>
